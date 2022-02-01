@@ -10,3 +10,9 @@ A curated list of awesome Minecraft Pi resources
 
 ### Useful Utilites
 - [Morpheus](https://github.com/bigjango13/Morpheus-2), a collection of API scripts to improve the user's overall experience.
+
+
+
+# Discord servers
+- [MCPI-Revival discord server](https://dsc.gg/mcpi-revival)
+- [Minecraft Pi Speedrunning server](https://discord.gg/rHSmNAGXBP)
