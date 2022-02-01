@@ -1,6 +1,10 @@
 # Awesome Minecraft Pi
 A curated list of awesome Minecraft Pi resources
 
+## Reviving dead features
+- [MCPI-Reborn](https://github.com/mcpi-revival)
+- [Phirel's survival patch (bad)](https://www.minecraftforum.net/forums/minecraft-editions/minecraft-pi-edition/1960005-survival-mode-patch)
+
 ## Naitive
 
 ### Useful utilities
