@@ -20,7 +20,7 @@ A curated list of awesome Minecraft Pi resources
 
 # Youtubers
 - [Wallee](https://www.youtube.com/channel/UCzAOB6RwvO5PWjLsuFNJ4MQ)
-- [Creeper 123 (Chezh)](https://m.youtube.com/channel/UC3qbl57lJ-hNGpHGMBFCmaA?feature=emb_ch_name_ex)
+- [Creeper123 (Chezh)](https://m.youtube.com/channel/UC3qbl57lJ-hNGpHGMBFCmaA?feature=emb_ch_name_ex)
 
 
 # Discord servers
