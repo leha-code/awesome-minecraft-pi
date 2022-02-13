@@ -18,6 +18,9 @@ A curated list of awesome Minecraft Pi resources
 - [MCPI-Packages-Buster](https://github.com/mobilegmYT/mcpi-packages-buster) Custom versions of MCPI-Reborn that have a lot of cool features.
 - [Pipan](https://github.com/RandomSoup/pipan) A new MCPI launcher.
 
+# Worlds
+- [Marketpi-repo](https://github.com/mcpiscript/marketpi-repo), a collection of a lot of worlds and texture packs for MCPI.
+
 # Fun Scripts
 - [One Block](https://github.com/PythonScratcher/oneblock)
 
