@@ -23,6 +23,7 @@ A curated list of awesome Minecraft Pi resources
 
 # Fun Scripts
 - [One Block](https://github.com/PythonScratcher/oneblock)
+- [Blocky Pet](https://github.com/eagleEggs/blockyPet)
 
 
 # Youtubers
