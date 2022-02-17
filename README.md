@@ -10,6 +10,7 @@ A curated list of awesome Minecraft Pi resources
 ### Useful utilities
 - [MineTerm](https://github.com/leha-code/mcpi-MineTerm), an utlity for sending messages in the chat.
 - [MCPI](https://github.com/martinohanlon/mcpi) A Python3 API for MCPI
+- [Java worlds running in mcpi](https://sites.google.com/a/brightmoore.net/brightmoore/mcedit-filters-1/mceditrpi)
 
 ## Reborn
 
