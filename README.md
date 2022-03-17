@@ -4,6 +4,7 @@ A curated list of awesome Minecraft Pi resources
 ## Reviving dead features
 - [MCPI-Reborn](https://github.com/mcpi-revival)
 - [Phirel's survival patch (bad)](https://www.minecraftforum.net/forums/minecraft-editions/minecraft-pi-edition/1960005-survival-mode-patch)
+- [MCPI-Reborn++](https://github.com/mobilegmyt/mcpi-reborn-extended)
 
 ## Naitive
 
@@ -28,6 +29,7 @@ A curated list of awesome Minecraft Pi resources
 # Fun Scripts
 - [One Block](https://github.com/PythonScratcher/oneblock)
 - [Blocky Pet](https://github.com/eagleEggs/blockyPet)
+- [Img2MC](https://github.com/kraibse/minecraft-art-generator)
 
 
 # Youtubers
